@@ -2,7 +2,8 @@
 ```diff
 +My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
-
+```
+```diff
 +Research project: Ring‑like structures, operations and equations without explicit quantifiers:
 An algebraic theory is specified by a signature — a set of operation symbols with fixed arities, such
 as a constant Oₚ, a constant 1ₚ, a unary operation —, and two binary operations + and − acting on
