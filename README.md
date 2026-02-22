@@ -14,6 +14,7 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
                 probably because of the "ban on hacking".
                 But I have never heard a simpler and more precise explanation of the essence of monads.
 ```
+
 ```yaml
 ● Semantics Lesson: A good teacher can't tell "and things didn't go as planned", provided their students are well-motivated, of course. Here's a real-life example from my experience as a "Haskell
                formal methods engineer" when I explained this to team members:
