@@ -22,7 +22,8 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
               Exceptions are always the opposite of the rules." 5) Then point to the left end of the pencil and say out loud: "But exceptions only prove the rules." 6) Consider: Why is there only
               one pencil,yet the statements it represents are logically opposed, yet related? Now you will understand what Haskell code is. Let's return to the pencil. Imagine the left end of a
               pencil is the English letter "A" (a) and the right end is the letter "B" (b). This means you can write all the pencil statements in their proper order. a="Rules" b="Exceptions to the
-              rules." Written down, it looks like this: a -> b -> a. The meaning of the structure is clear and preserved in the entry! This will even become clear to teenagers, won't it?
+              rules." Written down, it looks like this: a -> b -> a. The meaning of the structure is clear and preserved in the entry!
+              This will even become clear to teenagers, won't it?
 ```
 ```diff
 +Research project: Ring‑like structures, operations and equations without explicit quantifiers:
