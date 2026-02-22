@@ -2,7 +2,7 @@
 ```yaml
 ● My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
-> [!TIP]
+``` [!TIP]
 ● Did you know: What is a monad? The best explanation I've heard is something like this: "In 1940, Turing was puzzled by the 
                 cracking of the Nazi Enigma cipher. He cleverly guessed the cipher error. A letter of the Latin alphabet used
                 in the encoding - cannot be itself when pressed. This property in Haskell is designated as the famous "return"
@@ -11,7 +11,8 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
                 Now let's get back to the answer to the question. A monad is what Turing used long before monads were officially
                 invented, without knowing anything about them! Appreciate his talent! Nowadays, this topic is controversial, 
                 probably because of the "ban on hacking".
-                But I have never heard a simpler and more precise explanation of the essence of monads.<
+                But I have never heard a simpler and more precise explanation of the essence of monads.
+```
 
 ```diff
 ● Semantics Lesson: A good teacher can't tell "and things didn't go as planned", provided their students are well-motivated, of course. Here's a real-life example from my experience as a "Haskell
