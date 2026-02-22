@@ -16,16 +16,7 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
 ```
 
 ```yaml
-● Semantics Lesson: A good teacher can't tell "and things didn't go as planned", provided their students are well-motivated, of course. Here's a real-life example from my experience as a "Haskell
-               formal methods engineer" when I explained this to team members:
-               Spatial Thinking. 1) Take a pencil or pen in your left hand. 2) Point to the left end of the pencil with the index finger of your right hand. 3) Say out loud:
-               "Here are the rules." 4) Then point to the right end of the pencil and say out loud: "And here are the exceptions to the rules. Exceptions are always the opposite of the rules." 5)                Then point to the left end of the pencil and say out loud: "But exceptions only prove the rules." 6) Consider: Why is there only one pencil, yet the statements it represents are
-               logically opposed, yet related?
-               Now you will understand what Haskell code is. Let's return to the pencil. Imagine the left end of a pencil is the English letter "A" (a) and the right end is the letter "B" (b).
-               This means you can write all the pencil statements in their proper order.
-               a="Rules" b="Exceptions to the rules." Written down, it looks like this: a -> b -> a
-               The meaning of the structure is clear and preserved in the entry!
-               This will even become clear to teenagers, won't it?
+Semantics Lesson: A good teacher can't tell "and things didn't go as planned", provided their students are well-motivated, of course. Here's a real-life example from my experience as a "Haskell formal methods engineer" when I explained this to team members: Spatial Thinking. 1) Take a pencil or pen in your left hand. 2) Point to the left end of the pencil with the index finger of your right hand. 3) Say out loud: "Here are the rules." 4) Then point to the right end of the pencil and say out loud: "And here are the exceptions to the rules. Exceptions are always the opposite of the rules." 5) Then point to the left end of the pencil and say out loud: "But exceptions only prove the rules." 6) Consider: Why is there only one pencil, yet the statements it represents are logically opposed, yet related? Now you will understand what Haskell code is. Let's return to the pencil. Imagine the left end of a pencil is the English letter "A" (a) and the right end is the letter "B" (b). This means you can write all the pencil statements in their proper order. a="Rules" b="Exceptions to the rules." Written down, it looks like this: a -> b -> a. The meaning of the structure is clear and preserved in the entry! This will even become clear to teenagers, won't it?
 ```
 ```diff
 +Research project: Ring‑like structures, operations and equations without explicit quantifiers:
