@@ -26,7 +26,7 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
               This will even become clear to teenagers, won't it?
 ```
 ```diff
-+Research project: Ring‑like structures, operations and equations without explicit quantifiers:
+● +Research project: Ring‑like structures, operations and equations without explicit quantifiers:
 An algebraic theory is specified by a signature — a set of operation symbols with fixed arities, such
 as a constant Oₚ, a constant 1ₚ, a unary operation —, and two binary operations + and − acting on
 a single carrier. Terms are built inductively from variables and these operations; every application
