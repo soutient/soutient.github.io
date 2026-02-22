@@ -1,6 +1,5 @@
 # soutient.github.io
-```yaml
-● My package on hackage.haskell.org:
+<title>My package on hackage.haskell.org:</title>
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
 <mark>highlighted text</mark>● Did you know: What is a monad? The best explanation I've heard is something like this: "In 1940, Turing was puzzled by the 
                 cracking of the Nazi Enigma cipher. He cleverly guessed the cipher error. A letter of the Latin alphabet used
@@ -11,7 +10,6 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
                 invented, without knowing anything about them! Appreciate his talent! Nowadays, this topic is controversial, 
                 probably because of the "ban on hacking".
                 But I have never heard a simpler and more precise explanation of the essence of monads.
-```
 
 ```diff
 ● Semantics Lesson: A good teacher can't tell "and things didn't go as planned", provided their students are well-motivated, of course. Here's a real-life example from my experience as a "Haskell
