@@ -2,7 +2,7 @@
 ```yaml
 ● My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
-``` [!TIP]
+> [!TIP]
 >● Did you know: What is a monad? The best explanation I've heard is something like this: "In 1940, Turing was puzzled by the 
                 cracking of the Nazi Enigma cipher. He cleverly guessed the cipher error. A letter of the Latin alphabet used
                 in the encoding - cannot be itself when pressed. This property in Haskell is designated as the famous "return"
