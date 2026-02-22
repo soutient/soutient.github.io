@@ -15,7 +15,7 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
                 But I have never heard a simpler and more precise explanation of the essence of monads.
 ```
 
-```diff
+```yaml
 ● Semantics Lesson: A good teacher can't tell "and things didn't go as planned", provided their students are well-motivated, of course. Here's a real-life example from my experience as a "Haskell
               formal methods engineer" when I explained this to team members: Spatial Thinking. 1) Take a pencil or pen in your left hand. 2) Point to the left end of the pencil with the index
               finger of your right hand. 3) Say out loud: "Here are the rules." 4) Then point to the right end of the pencil and say out loud: "And here are the exceptions to the rules.
