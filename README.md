@@ -1,9 +1,6 @@
 # soutient.github.io
 My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
-
-$\color{red}{This \text{ is } red}$ or $\color{#58A6FF}{This \text{ is } blue}$
-
 ```yaml
 ● Did you know: What is a monad? The best explanation I've heard is something like this: "In 1940, Turing was puzzled by the 
                 cracking of the Nazi Enigma cipher. He cleverly guessed the cipher error. A letter of the Latin alphabet used
