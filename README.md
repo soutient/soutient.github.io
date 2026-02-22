@@ -1,6 +1,6 @@
 # soutient.github.io
 ```diff
-My package on hackage.haskell.org:
+● My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
 ```
 ```yaml
