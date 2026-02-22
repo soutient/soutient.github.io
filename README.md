@@ -1,5 +1,5 @@
 # soutient.github.io
-```diff
+```yaml
 ● My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
 ```
