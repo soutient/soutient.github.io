@@ -1,5 +1,5 @@
 # soutient.github.io
-$\color{#58A6FF}My package
+My package
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
 
 $\color{red}{This \text{ is } red}$ or $\color{#58A6FF}{This \text{ is } blue}$
