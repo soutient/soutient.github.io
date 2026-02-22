@@ -2,7 +2,7 @@
 My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
 
-$\color{#58A6FF}{This \text{ is } blue}$
+$\color{#58A6FF}{My package on \text{ hackage.haskell.org}$
 
 ```yaml
 ● Did you know: What is a monad? The best explanation I've heard is something like this: "In 1940, Turing was puzzled by the 
