@@ -1,4 +1,5 @@
 # soutient.github.io
+<style>highlighted text</style>
 My package on hackage.haskell.org:
 https://hackage.haskell.org/package/TrivialMonadWithUnitType
 ```diff
