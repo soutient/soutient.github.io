@@ -23,7 +23,7 @@ https://hackage.haskell.org/package/TrivialMonadWithUnitType
               rules." Written down, it looks like this: a -> b -> a. The meaning of the structure is clear and preserved in the entry!
               This will even become clear to teenagers, won't it?
 ```
-```haskell
+```diff
 ● Research project: Ring‑like structures, operations and equations without explicit quantifiers:
               An algebraic theory is specified by a signature — a set of operation symbols with fixed arities, such
               as a constant Oₚ, a constant 1ₚ, a unary operation —, and two binary operations + and − acting on
